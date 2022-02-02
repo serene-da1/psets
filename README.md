@@ -29,4 +29,4 @@ git add yourname-fmri-ps1-exercises.ipynb
 git commit -m "Finished problem set 1"
 ```
 
-When you're finished and ready to submit the problem set, you'll make a "pull request" to submit your notebook to the original `psets` repository in the [2022-NEU502b organization](https://github.com/2022-NEU502b). Make sure you've committed all your changes and pushed them to _your fork_ of the repository on GitHub. Open your browser and navigate to your fork of the repository on GitHub. Click the _Make a pull request_ button.
+When you're finished and ready to submit the problem set, you'll make a "pull request" to submit your notebook to the original `psets` repository in the [2022-NEU502b organization](https://github.com/2022-NEU502b). Make sure you've committed all your changes and pushed them to _your fork_ of the repository on GitHub. Open your browser and navigate to your fork of the repository on GitHub. Click the _Contribute_ menu and then click the _Open pull request_ button.
